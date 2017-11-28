@@ -1,0 +1,65 @@
+.Bottom {
+  height: 15%;
+  width: 80%;
+  background: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin: 2% auto;
+}
+
+.Top {
+  height: 15%;
+  width: 80%;
+  background: #000;
+  border: 1px solid #000;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin: 2% auto;
+  position: relative;
+}
+
+.One {
+  width: 80%;
+  height: 5%;
+  background: #999;
+  margin: 2% auto;
+  border-radius: 5px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.Two {
+  width: 80%;
+  height: 5%;
+  margin: 2% auto;
+  background: #666;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.Three {
+  width: 80%;
+  height: 5%;
+  margin: 2% auto;
+  background: #ccc;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.Four {
+  width: 80%;
+  height: 5%;
+  background: #333;
+  margin: 2% auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.Five {
+  width: 80%;
+  height: 5%;
+  background: #aaa;
+  margin: 2% auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
